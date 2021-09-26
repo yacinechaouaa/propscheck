@@ -1,0 +1,17 @@
+.myText {
+  color: rgb(0, 162, 255);
+  font-size: 30px;
+
+  text-align: center;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: cornsilk;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  margin: 100px;
+  border: solid;
+  border-radius: 4px;
+}
